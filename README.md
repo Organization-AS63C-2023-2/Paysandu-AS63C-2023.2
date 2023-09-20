@@ -23,7 +23,7 @@ Recursos Principais:
 
 1) Planejamento de Metas Personalizadas: O MoneyMaster permite que você defina metas financeiras de curto, médio e longo prazo. Quer economizar para uma viagem dos sonhos, comprar uma casa ou se aposentar confortavelmente? O sistema irá guiá-lo.
 
-2) Assistente de Metas Inteligentes: Nossa IA integrada oferece recomendações personalizadas com base em sua situação financeira atual e metas. Ele ajuda a criar planos realistas para alcançar seus objetivos.
+2) Suporte de Dúvidas: Sane suas dúvidas com nossa equipe capacitada, pronta para oferecer todo o suporte e ajuda necessária de forma ágil e profissional. 
 
 3) Calculadoras Financeiras Avançadas: Realize cálculos complexos para determinar quanto dinheiro você precisa economizar e investir para alcançar suas metas. Calcule taxas de retorno, prazos de investimento e muito mais.
 
@@ -41,7 +41,7 @@ Como Funciona:
 
 2) Definição de Metas: Escolha suas metas financeiras e configure prazos realistas.
 
-3) Análise de Situação: A IA do MoneyMaster analisa sua situação atual e sugere planos personalizados.
+3) Suporte de Dúvidas: Entre com nome, e-mail, onde será criado um ID com a identificação única do usuário. A seguir, será disponibilizado um campo para ser transcrevido as dúvidas, o qual será encaminhado via e-mail para a equipe técnica.
 
 4) Cálculos Inteligentes: Utilize nossas calculadoras avançadas para determinar quanto você precisa economizar e investir.
 
