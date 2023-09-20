@@ -5,7 +5,7 @@
 Disciplina: Desenvolvimento Ágil, AS63C-2023.2;
 
 Integrantes:
-Eduardo Kasprovicz - https://github.com/Edu1059
+Eduardo Kasprovicz - https://github.com/Edu1059<br>
 Eduardo Viegas - https://github.com/duduvf11
 Matheus Kodi - https://github.com/MathKodi
 Mauricio Junior - https://github.com/MauricioJrB
