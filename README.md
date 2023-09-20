@@ -1,6 +1,6 @@
-									|==========================|
-									|  ### Paysandu LTDA ###   |
-									|==========================|
+					|==========================|
+					|  ### Paysandu LTDA ###   |
+					|==========================|
 Disciplina: Desenvolvimento Ágil, AS63C-2023.2;
 
 Integrantes: Eduardo Kasprovicz - https://github.com/Edu1059
