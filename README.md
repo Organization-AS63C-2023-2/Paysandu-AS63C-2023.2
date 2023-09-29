@@ -1,16 +1,16 @@
-|==========================|
-|  ### Paysandu LTDA ###   |
-|==========================|
+|============| <br>
+|>Paysandu-LTDA<|<br>
+|============| 
 
 Disciplina: Desenvolvimento Ágil, AS63C-2023.2;
 
-Integrantes:
+Integrantes:<br>
 Eduardo Kasprovicz - https://github.com/Edu1059<br>
-Eduardo Viegas - https://github.com/duduvf11
-Matheus Kodi - https://github.com/MathKodi
-Mauricio Junior - https://github.com/MauricioJrB
-Rhuan Dias - https://github.com/RhuanDiass
-Victor Hugo - https://github.com/zVihugo
+Eduardo Viegas - https://github.com/duduvf11<br>
+Matheus Kodi - https://github.com/MathKodi<br>
+Mauricio Junior - https://github.com/MauricioJrB<br>
+Rhuan Dias - https://github.com/RhuanDiass<br>
+Victor Hugo - https://github.com/zVihugo<br>
 
 Descrição do projeto: 
 O MoneyMaster é uma solução revolucionária criada para auxiliar
